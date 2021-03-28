@@ -1,6 +1,6 @@
 # IoT-recording-light-esp8266
 
-This device can be used to alert other people in your house that you are in an online meeting or video/sound recording session, to avoid disturbance. When the light is active, you can control it from a webpage with buttons. The webpage also displays the battery voltage. 
+This device can be used to alert other people in your house that you are in an online meeting or video/sound recording session, to avoid disturbance. When the light is active, you can control it wirelessly from a webpage with buttons. The webpage also displays the battery voltage. 
 
 The microcontroller (Wemos D1 mini) can be powered with a micro USB cable, however, there is also the option to use two AA batteries instead. The latter option is convenient if the device is placed far away from a USB socket, but it also limits the time that the MCU can run. Since the light is controlled via a web server, the MCU has to be active constantly while we want to use it. You could choose to manually turn it on and off whenever you wanted to use it, but why not do this automatically?
 
