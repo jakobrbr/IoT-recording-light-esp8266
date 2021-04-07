@@ -19,6 +19,7 @@ buttons
 <img src="https://raw.githubusercontent.com/jakobrbr/IoT-recording-light-esp8266/main/Pictures/RecLight1.jpg" alt="alt text" width="450" height="600">
 <img src="https://raw.githubusercontent.com/jakobrbr/IoT-recording-light-esp8266/main/Pictures/RecLight2.jpg" alt="alt text" width="450" height="600">
 <img src="https://raw.githubusercontent.com/jakobrbr/IoT-recording-light-esp8266/main/Pictures/RecLight3.jpg" alt="alt text" width="450" height="600">
+<img src="https://raw.githubusercontent.com/jakobrbr/IoT-recording-light-esp8266/main/Pictures/RecLight4.jpg" alt="alt text" width="450" height="600">
 
 ### 3D print
 
