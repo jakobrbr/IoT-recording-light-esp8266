@@ -12,6 +12,7 @@ Once the device is turned on, the webserver will be active for 11 hours after wh
 circuit
 buttons
 *pictures*
+<img src="https://raw.githubusercontent.com/jakobrbr/IoT-recording-light-esp8266/main/Pictures/RecLight1.jpg" alt="alt text" width="100" height="100">
 
 ### 3D print
 
