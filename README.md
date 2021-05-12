@@ -24,6 +24,8 @@ I used a Wemos D1 mini for this project. The board uses an ESP8266 chip and is m
 
 All plastic parts of this project apart from the translucent "lid" were 3D printed. The translucent lid originally comes from a plastic watch travel case. I used sandpaper on the lid to diffuse the light even more. The 3D-printed parts have been glued together.
 
+[**STL files**](STL_files)
+
 The wemos case stl was downloaded from Thingiverse and modified. The other two stl's were designed by me. I used Fusion360 to do all 3D modelling. 
 
 ## Software
