@@ -28,4 +28,5 @@ All plastic parts of this project apart from the translucent "lid" were 3D print
 
 ## Software
 
-...
+The arduino code was inspired by multiple online guides on how to make a webpage controlled LED with an ESP8266. The deep sleep code was taken from this website: https://panther.kapsi.fi/posts/2019-05-14_esp8266_deep_sleep
+
