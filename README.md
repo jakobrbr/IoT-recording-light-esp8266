@@ -28,5 +28,5 @@ The wemos case stl was downloaded from Thingiverse and modified. The other two s
 
 ## Software
 
-The Arduino code was inspired by the multiple online guides on how to make a webpage controlled LED with an ESP8266. The deep sleep code was taken from this website: https://panther.kapsi.fi/posts/2019-05-14_esp8266_deep_sleep
+The [**Arduino code**](RecordingLight.ino) was inspired by the multiple online guides on how to make a webpage controlled LED with an ESP8266. The deep sleep code was taken from this website: https://panther.kapsi.fi/posts/2019-05-14_esp8266_deep_sleep
 
